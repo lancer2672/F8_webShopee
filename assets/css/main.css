@@ -114,7 +114,7 @@
                         /*Phan thong bao cua "THONG BAO" */
 .navbar__notify{
     position:absolute;
-    z-index: 1;
+    z-index: 7;
     top: 200%;
     right:0px;
     width:404px;
